@@ -1,0 +1,4 @@
+.link_theme_opacity:hover {
+  color: rgba(47, 128, 237, .7);
+  transition: color 0.3s linear 0.5s;
+}
