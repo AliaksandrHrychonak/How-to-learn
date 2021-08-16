@@ -9,9 +9,9 @@
   justify-content: flex-start;
   align-items: center;
   display: flex;
+  transition: opacity 1s ease, color 0.2s linear;
 }
 
 .footer__column-link:hover {
-  color: rgba(255, 255, 255, .6);
-  transition: color 0.4s linear 0.5s;
+  opacity: 0.5;
 }
