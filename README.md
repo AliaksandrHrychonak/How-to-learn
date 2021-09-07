@@ -28,5 +28,5 @@
 - Адаптация под различные расширения 
 - Добавить возможность распечатать страницу без потери внешнего вида страницы
 
-#### Ссылка GitHub: https://github.com/AliaksandrHrychonak/second-project
-#### Ссылка на страницу: https://aliaksandrhrychonak.github.io/second-project/
+#### Ссылка GitHub: https://github.com/AliaksandrHrychonak/How-to-learn
+#### Ссылка на страницу: https://aliaksandrhrychonak.github.io/How-to-learn/
